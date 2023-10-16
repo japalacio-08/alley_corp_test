@@ -1,5 +1,9 @@
 # Acme Corp. API Solutions
 
+Author: Jeyson Anibal Palacio Palma
+
+[Linkedin](https://www.linkedin.com/in/jeyson-anibal-palacio-palma/)
+
 This folder contains solutions to the issues identified with Acme Corp.'s API. Below are the individual tasks and their corresponding solutions:
 
 [See Exercise](./exercise.md)
